@@ -1,0 +1,14 @@
+size(600,600);
+println("Opdracht 2.1+2.2");
+println("Dit is een tekst");
+print("Dit is een");
+print(" stukje tekst");
+println(" achter elkaar geplakt!");
+println("met 2 enters.");
+println("Opdracht 2.1");
+println("Ik ben Tyshura en dit is mijn opdracht/oefening om te werken met print en println en het verschil onde de knie te krijgen.");
+println("Mijn hobby's zijn:");
+println("1.lezen");
+println("2.shoppen");
+println("3.films");
+print("kijken");
